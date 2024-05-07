@@ -1,7 +1,7 @@
 
 # BMS
 
-Introducing BMS MERN stack-powered bank management system app!
+Introducing BMS, a bank management system app!
 
 Experience real-time banking with facilities for both User and Admin. 
 
